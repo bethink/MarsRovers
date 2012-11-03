@@ -24,3 +24,7 @@ How to run ?
 	Output:
 	1 3 N
 	5 1 E
+
+Info:
+This program considers all the input as valid.
+For invalid inputs program may crash.
