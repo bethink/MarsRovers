@@ -14,13 +14,13 @@ How to run ?
 
 3. Give input as follows. To complete the the input use '-1' 
 
-5 5 
-1 2 N
-LMLMLMLMM
-3 3 E
-MMRMMRMRRM
--1
+	5 5
+	1 2 N
+	LMLMLMLMM
+	3 3 E
+	MMRMMRMRRM
+	-1
 
-Output:
-1 3 N
-5 1 E
+	Output:
+	1 3 N
+	5 1 E
