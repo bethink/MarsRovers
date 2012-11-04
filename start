@@ -4,8 +4,8 @@ require 'rubygems'
 Dir["#{File.dirname(__FILE__)}/app/*.rb"].each {|file| require file }
 
 # ===================== INPUT: Upper right co-ordination =====================
-
-puts 'Input:'
+puts "\nWarning!!! Validation not yet done. Give valid input\n\n"
+puts 'Input: (Type -1 in new line to complete input)'
 
 upper_right_ord = gets.strip
 
